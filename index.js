@@ -16,3 +16,5 @@ const stopTalking = () => {
 const HeyushPPL = () => {
   console.log(" Shalom To All !");
 }
+
+HeyushPPL();
