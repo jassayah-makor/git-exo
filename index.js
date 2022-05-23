@@ -20,6 +20,9 @@ const poopooz = (size) => {
 			dataToSend = '💩💩'
 			break
 		case 'large':
+		case 'massive':
+		case 'huge':
+		case 'toomuchman':
 			dataToSend = '💩💩💩'
 			break
 		default:
