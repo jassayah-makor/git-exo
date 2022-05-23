@@ -3,7 +3,11 @@ const saySomething = text => {
 }
 
 const replyToAll = text => {
+  
+}
 
+const replyToOnePerson = (text, person) => {
+  console.log(`Hello ${person}, ${text}`)
 }
 
 const stopTalking = () => {
