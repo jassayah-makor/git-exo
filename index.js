@@ -3,7 +3,7 @@ const saySomething = text => {
 }
 
 const replyToAll = text => {
-  
+  replyToOnePerson(text, 'Jordan')
 }
 
 const replyToOnePerson = (text, person) => {
