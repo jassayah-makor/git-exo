@@ -3,10 +3,10 @@ const saySomething = text => {
 }
 
 const replyToAll = text => {
+console.log('i love you all')
 
 }
 
 const stopTalking = () => {
-  const num = '1' + '1'
-  console.log(num)
+  const num = '1' + '3'
 }
