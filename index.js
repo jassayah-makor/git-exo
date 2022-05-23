@@ -1,15 +1,15 @@
-const saySomething = (text) => {
-	console.log(text)
+const saySomethingz = (txt) => {
+	console.log(txt)
 }
 
 const replyToAll = (text) => {}
 
 const stopTalking = () => {
-	const num = '1' + '1'
-	console.log(num)
+	const num = '1' + '2'
+	console.log(num1)
 }
 
-const poopoo = (size) => {
+const poopooz = (size) => {
 	let dataToSend = ''
 
 	switch (size) {
@@ -27,4 +27,8 @@ const poopoo = (size) => {
 			break
 	}
 	console.log(dataToSend)
+}
+
+const logMonkaS = () => {
+	console.log('monkaS')
 }
