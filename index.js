@@ -3,7 +3,7 @@ const saySomething = text => {
 }
 
 const replyToAll = text => {
-
+  return 'jordan is THE SHIT!'
 }
 
 const stopTalking = () => {
