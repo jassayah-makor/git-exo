@@ -1,6 +1,10 @@
 const saySomething = (text) => {
 	console.log(text)
+	for(let i =0; i < text.length - 1 ; i++){
+		alert(text[1])
+	}
 }
+saySomething('dfsefsdfgrdgregregh fewfefefewfgewg  fewfrfref');
 
 const replyToAll = (text) => {}
 
