@@ -1,12 +1,12 @@
 const saySomething = text => {
-  console.log(text)
+  return 'JORDYYYYYYY'
 }
 
 const replyToAll = text => {
-
+  console.log(text)
 }
 
 const stopTalking = () => {
   const num = '1' + '1'
-  console.log(num)
+  return num
 }
