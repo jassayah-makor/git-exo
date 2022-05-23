@@ -10,3 +10,7 @@ const stopTalking = () => {
   const num = '1' + '1'
   console.log(num)
 }
+
+const isAvivDumb = () => {
+  return true
+}
