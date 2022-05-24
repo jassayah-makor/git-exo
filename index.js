@@ -27,15 +27,6 @@ const poopoo = (size) => {
   console.log(dataToSend)
 }
 
-const yisraelFunction = () => {
-	return true
-}
-
-const stopTalking = () => {
-  const num = '1' + '1'
-  console.log(num)
-}
-
 function* fibonacci() {
   let [prev, curr] = [0, 1];
   for (;;) {
