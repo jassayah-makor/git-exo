@@ -1,3 +1,3 @@
 (() =>{
-  throw new Error('Bye Bye')
+  throw new Error('Bye Bye!!!')
 })()
